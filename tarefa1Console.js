@@ -1,0 +1,3 @@
+console.table([{titulo:'Name of the Wind',autor:'Patrick Rothfuss', ano:'2007', editora:"Daw Books"},{titulo:'A Wise Mans Fear',autor:'Patrick Rothfuss', ano:'2011', editora:"Daw Books"},{titulo:'Women who Run with Wolves',autor:'Clarissa Pinkola Estés', ano:'1992', editora:"Ballantine Books"},{titulo:'Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos',autor:'Aditya Y. Bhargava', ano:'2017', editora:"Novatec Editora"}])
+console.time('label');
+console.timeEnd('label');
